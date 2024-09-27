@@ -13,19 +13,21 @@
 -   |-Bar
 -   `-Backtick
 ## Experiments
-    - :smile:
-    - :thumbsup:
-    - :soccer:
-    - :sparkles:
-    - :leopard:
-    <br>
-    ## Keyboard shortcuts
-Shortcuts I frequently use: 
+    - 😄
+    - 👍
+    - ⚽
+    - ✨
+    - 🐆
+   
+     
+   ## keyboard shortcuts
+Shortcuts I frequently use
 - Ctrl-C (copy)
 - Ctrl-V (paste)
 - Ctrl-f (allows you to search for something in a document) 
 <hr>
-Shortcuts I would like to start using: 
+short cuts I would like to start using
+
 - Ctrl + P(open a file)
 - Ctrl+k(allows you to quickly access search bar)
 - Ctrl-Z (undo)
