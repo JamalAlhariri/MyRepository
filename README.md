@@ -10,7 +10,7 @@
 -   *-Asterisk
 -   (-Left bracket      
 -   )-Right bracket
--   |-Bar
+-   |-Bar 
 -   `-Backtick
 ## Experiments
     - 😄
@@ -34,6 +34,7 @@ short cuts I would like to start using
 
 
     ## Links
+    
     [GitHub Pages](https://pages.github.com/)
     
     [W3 HTML help](https://www.w3schools.com/html/)
