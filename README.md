@@ -13,6 +13,11 @@
 -   |-Bar
 -   `-Backtick
     <br>
+    ## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo) 
     ## Links
     [GitHub Pages](https://pages.github.com/)
     
