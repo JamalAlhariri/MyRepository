@@ -17,7 +17,14 @@
 Shortcuts I frequently use: 
 - Ctrl-C (copy)
 - Ctrl-V (paste)
-- Ctrl-Z (undo) 
+- Ctrl-f (allows you to search for something in a document) 
+<hr>
+Shortcuts I would like to start using: 
+- Ctrl + P(open a file)
+- Ctrl+k(allows you to quickly access search bar)
+- Ctrl-Z (undo)
+
+
     ## Links
     [GitHub Pages](https://pages.github.com/)
     
