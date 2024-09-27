@@ -12,6 +12,12 @@
 -   )-Right bracket
 -   |-Bar
 -   `-Backtick
+## Experiments
+    - :smile:
+    - :thumbsup:
+    - :soccer:
+    - :sparkles:
+    - :leopard:
     <br>
     ## Keyboard shortcuts
 Shortcuts I frequently use: 
@@ -32,9 +38,4 @@ Shortcuts I would like to start using:
 
     [George Brown](https://www.georgebrown.ca/)
     
-    ## Experiments
-    - :smile:
-    - :thumbsup:
-    - :soccer:
-    - :sparkles:
-    - :leopard:
+    
