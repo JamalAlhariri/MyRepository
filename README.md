@@ -1,4 +1,4 @@
- ## Number Row of Charaacters 
+ ## Number row of characters 
  
  - !- Explanation mark  
 - @- At
