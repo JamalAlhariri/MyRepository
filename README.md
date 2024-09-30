@@ -10,7 +10,7 @@
 -   )-Right bracket
 -   |-Bar 
 -   `-Backtick
--   - !- Explanation mark  
+-   !- Explanation mark  
 ## Experiments
     - 😄
     - 👍
