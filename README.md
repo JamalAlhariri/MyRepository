@@ -1,7 +1,5 @@
 
-
- ## Number row characters
- - !- Explanation mark  
+- !- Explanation mark  
 - @- At
 -   #- Hashtag
 -   $- Dollar sign
