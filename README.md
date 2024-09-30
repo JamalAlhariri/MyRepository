@@ -1,4 +1,4 @@
-## **This is a bold header**
+## **Number row characters**
 - !- Explanation mark  
 - @- At
 -   #- Hashtag
