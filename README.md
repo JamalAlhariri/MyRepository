@@ -8,9 +8,8 @@
 -   *-Asterisk
 -   (-Left bracket      
 -   )-Right bracket
--   |-Bar 
+-   !-Explanation point
 -   `-Backtick
--   !- Explanation mark  
 ## Experiments
     - 😄
     - 👍
