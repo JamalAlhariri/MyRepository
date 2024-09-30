@@ -1,5 +1,4 @@
- ## Number
- 
+ ## Number row characters
  - !- Explanation mark  
 - @- At
 -   #- Hashtag
