@@ -1,5 +1,4 @@
 ## **Number row characters**
-- !- Explanation mark  
 - @- At
 -   #- Hashtag
 -   $- Dollar sign
@@ -11,6 +10,7 @@
 -   )-Right bracket
 -   |-Bar 
 -   `-Backtick
+-   - !- Explanation mark  
 ## Experiments
     - 😄
     - 👍
