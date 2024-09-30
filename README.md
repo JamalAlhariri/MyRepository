@@ -1,4 +1,4 @@
- # Number Row Characters 
+ ## Number Row of Charaacters 
  
  - !- Explanation mark  
 - @- At
@@ -19,8 +19,7 @@
     - ✨
     - 🐆
    
-     
-   ## keyboard shortcuts
+     ## Keyboard shortcuts
 Shortcuts I frequently use
 - Ctrl-C (copy)
 - Ctrl-V (paste)
@@ -33,7 +32,7 @@ short cuts I would like to start using
 - Ctrl-Z (undo)
 
 
-    ## Links
+## Links
     
     [GitHub Pages](https://pages.github.com/)
     
