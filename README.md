@@ -1,6 +1,4 @@
-<h1>Number Row Characters</h1>
-
-
+## **This is a bold header**
 - !- Explanation mark  
 - @- At
 -   #- Hashtag
