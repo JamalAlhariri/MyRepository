@@ -36,11 +36,10 @@ Short cuts I would like to start using:
 
 
 ## Links
-    
-    [GitHub Pages](https://pages.github.com/)
-    
-    [W3 HTML help](https://www.w3schools.com/html/)
+[GitHub Pages](https://pages.github.com/)
 
-    [George Brown](https://www.georgebrown.ca/)
+[W3 HTML help](https://www.w3schools.com/html/)
+
+[George Brown](https://www.georgebrown.ca/)
     
     
