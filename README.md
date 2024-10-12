@@ -42,4 +42,4 @@ Short cuts I would like to start using:
 
 [George Brown](https://www.georgebrown.ca/)
     
-[CLI commands](docs/cli.md)
+[CLI Commands](docs/cli.md)
