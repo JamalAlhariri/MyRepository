@@ -5,3 +5,5 @@
 - **Find**: Using this command will show you a list of directories
 - **cd**: This allows you to switch directories. For example, cd.. allows you to go up one directory to what is known as the parent directory
 - **pwd**: This stands for print working directory and shows the path of the current directory
+
+[README.md](../README.md)
